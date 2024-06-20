@@ -10,8 +10,19 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-## Javascript
+<h3 class="archive__subtitle">{{ "My Favorite Projects" }}</h3>
 
-## Python
+{% if paginator %}
+{% assign posts = paginator.posts %}
+{% else %}
+{% assign posts = site.posts %}
+{% endif %}
 
-## Java
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+<div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+    {% if post.categories contains 'work' %}
+    {% include archive-single.html type=entries_layout %}
+    {% endif %}
+    {% endfor %}
+</div>
