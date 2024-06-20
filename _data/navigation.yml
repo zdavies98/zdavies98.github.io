@@ -6,9 +6,5 @@ main:
     url: /my-work/
   - title: "My Career"
     url: /my-career/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "CV"
-    url: /cv/
-  - title: "Misc"
-    url: /misc/
+  - title: "Education"
+    url: /education/

@@ -1,0 +1,49 @@
+technical:
+ - title: HTML & CSS
+   level: Advanced
+ - title: Javascript
+   level: Advanced
+ - title: Node.js
+   level: Advanced
+ - title: Python
+   level: Intermediate
+ - title: Java
+   level: Intermediate
+ - title: ReactJS
+   level: Intermediate
+ - title: SQL
+   level: Advanced
+ - title: Visual Basic
+   level: Advanced
+ - title: AWS
+   level: Intermediate
+ - title: Mac OS
+   level: Advanced
+ - title: Windows
+   level: Advanced
+ - title: Linux
+   level: Intermediate
+ - title: REST API
+   level: Advanced
+ - title: Postman
+   level: Advanced
+ - title: Cloud Development
+   level: Advanced
+
+soft:
+ - title: Leadership
+   level: Advanced
+ - title: Communication
+   level: Advanced
+ - title: Problem Solving
+   level: Advanced
+ - title: Adaptability
+   level: Advanced
+ - title: Creativity
+   level: Intermediate
+ - title: Coaching / Mentoring
+   level: Intermediate
+ - title: Learning Agility
+   level: Advanced
+ - title: Work Ethic
+   level: Advanced
