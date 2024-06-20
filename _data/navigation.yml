@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Home" 
+    url: /
+  - title: "My Work"
+    url: /my-work/
+  - title: "My Career"
+    url: /my-career/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
+  - title: "Misc"
+    url: /misc/
