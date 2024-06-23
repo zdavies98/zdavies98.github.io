@@ -15,16 +15,16 @@ header:
 description: This article shows how to code the classic Battleship game.
 ---
 
-> To see a preview of this project go to [Battleships on Codespaces](https://scaling-space-fortnight-wxvxjvqvv9xh96xj.github.dev) and select the `index.html` file and then `Go Live` on the status bar.
+> To preview this project, navigate to  [Battleships on Codespaces](https://scaling-space-fortnight-wxvxjvqvv9xh96xj.github.dev), select the `index.html` file, and click `"Go Live"` on the status bar. 
 
 ## Background
-As a software engineer that works primarily in Javascript, I wanted to see what other fun projects I could work on. I figured, why not try to develop one of my favorite childhood games: Battleship!
+As a seasoned software engineer specializing in Javascript, I sought opportunities to explore engaging coding projects. Motivated by the desire to expand my portfolio, I embarked on developing a classic childhood game: Battleship.
 
 ## Approach
-I wanted to make this a simple project that would be easy to manipulate in the future. I broke down each step and coded each piece of functionality I wanted my game to have.
+I aimed to design a streamlined project, emphasizing future adaptability and scalability. This involved methodically breaking down each step and meticulously coding the desired functionalities for my game.
 
 ## Results
-In this game, the user is able to place all their pieces, and start the game. After the user plays their first turn, the computer then takes it's turn. Turns alternate until one side sinks all the other's ships.
+In this project, I successfully implemented a fully functional Battleship game where users can strategically place their ships and commence gameplay. The game alternates turns between the user and the computer, progressing until one side successfully sinks all opposing ships, demonstrating a seamless gameplay experience.
 
 ## Next Steps
-There are a few improvements I want to make with this game. First being design, I would like to upgrade the styling to be more similar to the original game. Next, I want to add some logic to the computer's turn, since every guess is random. Rather, I would like the computer to have some basic logic to select spaces near a hit, as a human would. The end goal is to eventually make this game multiplayer.
+Moving forward, several enhancements are planned for this game. Firstly, I intend to elevate the design by refining the styling to closely mirror the original game's aesthetic. Additionally, I aim to enhance the computer's gameplay logic; currently random, I plan to introduce basic algorithms that guide the computer's moves, particularly focusing on selecting spaces adjacent to hits, akin to human-like strategy. Ultimately, the overarching goal is to evolve this project into a multiplayer experience.
