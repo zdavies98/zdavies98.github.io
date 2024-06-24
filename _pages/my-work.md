@@ -26,3 +26,21 @@ toc_icon: "gear"
     {% endif %}
     {% endfor %}
 </div>
+
+
+<h3 class="archive__subtitle">{{ "Code Samples" }}</h3>
+
+{% if paginator %}
+{% assign posts = paginator.posts %}
+{% else %}
+{% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+<div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+    {% if post.categories contains 'sample' %}
+    {% include archive-single.html type=entries_layout %}
+    {% endif %}
+    {% endfor %}
+</div>
