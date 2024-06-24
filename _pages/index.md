@@ -7,8 +7,6 @@ author_profile: true
 classes: wide
 ---
 
-<!-- <img src="/assets/images/research.png" width="420px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />  -->
-
 <p style="text-align: justify">
 I am an accomplished Software Engineer with nearly four years of industry experience. I earned a Bachelor of Science degree in Cybersecurity from the University of South Florida in December 2020, where I honed my skills in software development. My enthusiasm for this field has steadily intensified since my academic journey began.
 </p>
@@ -21,7 +19,6 @@ Upon successful completion of this certificate, I am eager to advance my experti
 
 ### My interests include:
 - Spending time with my wife and dogs
-- Playing video games
 - Watching sports
 - Growing my software development skills
 
