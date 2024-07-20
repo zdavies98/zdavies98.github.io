@@ -2,7 +2,7 @@
 layout: posts
 title:  "AI Image Analyzer"
 date:   2024-07-12 01:00:00 -0000
-tags: [tutorial, javascript]
+tags: [tutorial, javascript, react]
 author_profile: true
 author: Zachary Davies
 categories: work
@@ -21,7 +21,7 @@ description: This article shows how to code an AI image analyzer using OpenAI.
 Before starting my graduate certificate program in Machine Learning at the University of Florida, I wanted to attempt to make my own AI program utilizing OpenAI. After some research, I decided to use React for this project.
 
 ## Approach
-Since this was the first time I've ever used React, I spent some time doing some reading on the React documentation and did a few coding exercises to get myself familiar. As a Senior Software Engineer that primarily codes in javascript, this didn't take long. The next set of research that I needed to do was determine how to implement OpenAI's api into the project.
+After finally getting some hands-on experience with React, the next set of research that I needed to do was determine how to implement OpenAI's api into the project.
 
 ## Results
 In this app, the user uploads an image, and then can ask questions about the image. Answers are returned from OpenAI's API, and the user can continue asking questions. Simply upload a new image when you want to ask questions about another image.
