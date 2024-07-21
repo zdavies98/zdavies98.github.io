@@ -8,16 +8,16 @@ author: Zachary Davies
 categories: work
 tagline: "Tic-Tac-Toe - React"
 header:
-  overlay_image: assets/images/tic-tac-toe-app.png
-  teaser: assets/images/tic-tac-toe-app.png
+  teaser: assets/images/tictactoe2.png
 
 description: This article shows how to code the classic Tic-Tac-Toe game in React.
 ---
 
-> To preview this project, create a codespace in the [GitHub repository](https://github.com/zdavies98/tic-tac-toe), and run `npm start`. 
-
+> Clone this repository and try out the classic game yourself!
 
 <img src="/assets/images/tictactoedemo.gif" />
+
+To preview this project, create a codespace in the [GitHub repository](https://github.com/zdavies98/tic-tac-toe), and run `npm start`. 
 
 ## Background
 In seeking to deepen my understanding of React, I embarked on a project to develop a straightforward yet engaging application. I chose to create a Tic-Tac-Toe game, which provided a practical introduction to React and allowed me to gain hands-on experience with its core concepts and functionalities

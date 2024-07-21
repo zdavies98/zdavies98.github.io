@@ -15,9 +15,11 @@ header:
 description: This article shows how to code an AI image analyzer using OpenAI.
 ---
 
-> Preview the repository on [GitHub](https://github.com/zdavies98/ai-image-analyzer)
+> Check out this AI Image Analyzer using OpenAI
 
 <img src="/assets/images/ai-image-analyzer-demo.gif" width="700px"/>
+
+Preview the repository on [GitHub](https://github.com/zdavies98/ai-image-analyzer)
 
 ## Background
 Before commencing my graduate certificate program in Machine Learning at the University of Florida, I sought to develop an AI application using OpenAI technology. After thorough research, I chose React as the framework for this project.

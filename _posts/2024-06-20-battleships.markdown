@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Battleships"
+title:  "Battleship"
 date:   2024-06-20 04:11:16 -0000
 tags: [tutorial, javascript]
 author_profile: true

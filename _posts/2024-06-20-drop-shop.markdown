@@ -1,0 +1,33 @@
+---
+layout: posts
+title:  "Drop Shop"
+date:   2024-07-11 04:11:16 -0000
+tags: [tutorial, javascript]
+author_profile: true
+author: Zachary Davies
+categories: work
+tagline: "Drop Shop - Find the best value"
+header:
+  image: assets/images/dropshopbanner.jpg
+  teaser: assets/images/dslogonoborder.png
+  
+description: This article details my senior project from undergrad.
+---
+
+> Compare popular sneaker resale prices seamlessly with our custom-designed, web-scraper powered platform.
+
+View the repository on [GitHub](https://github.com/DropShopProject/drop-shop)
+
+## Background
+During the final semester of our undergraduate program, my team and I were assigned a senior project. With a shared passion for sneakers, my three colleagues and I decided to develop a website that enables users to compare resale prices of some of the most popular sneakers in the market. We were given an 8-week timeframe to complete this project.
+
+## Approach
+Our team systematically outlined the features we intended to incorporate into the application. Considering the limited time frame, we prioritized essential functionalities to ensure the project could be completed within the given period.
+
+## Results
+We successfully developed a website that showcased popular sneakers, featuring modal windows displaying prices for each shoe size from three different resale sites using web scrapers built with Python. Our team designed custom branding and aesthetics for the website. While we collaborated on various aspects, each member had specific responsibilities. My primary role involved implementing an account system that allowed users to create accounts, reset passwords, and save information. Additionally, I managed the database for user accounts and product data. I also established backend support for an email system to communicate with our users. For account security, I implemented password hashing using Bcrypt and incorporated checks to prevent SQL injection attacks on the login page.
+
+Overall, this project was both enjoyable and successful.
+
+## Next Steps
+Our team had a strong desire to further develop this project and potentially turn it into a business. However, we eventually pursued different paths, and the project did not progress beyond its initial phase. Additionally, the emergence of similar applications and the decline in the sneaker resale industry over recent years posed significant challenges to the viability of our project. Nonetheless, the experience highlighted our ability to work effectively as a team, and I am optimistic that we could collaborate in the future to create something remarkable.
