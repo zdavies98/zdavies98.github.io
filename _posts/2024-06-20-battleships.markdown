@@ -17,6 +17,8 @@ description: This article shows how to code the classic Battleship game.
 
 > To preview this project, navigate to  [Battleships on Codespaces](https://scaling-space-fortnight-wxvxjvqvv9xh96xj.github.dev), select the `index.html` file, and click `"Go Live"` on the status bar. 
 
+<img src="/assets/images/battleship-demo.gif" />
+
 ## Background
 As a seasoned software engineer specializing in Javascript, I sought opportunities to explore engaging coding projects. Motivated by the desire to expand my portfolio, I embarked on developing a classic childhood game: Battleship.
 
