@@ -15,7 +15,9 @@ header:
 description: This article shows how to code the classic Battleship game.
 ---
 
-> To preview this project, navigate to  [Battleships on Codespaces](https://scaling-space-fortnight-wxvxjvqvv9xh96xj.github.dev), select the `index.html` file, and click `"Go Live"` on the status bar. 
+> To preview this project, create a GitHub codespace, select the `index.html` file, and click `"Go Live"` on the status bar. 
+
+Preview the repository on [GitHub](https://github.com/zdavies98/battleship)
 
 <img src="/assets/images/battleship-demo.gif" />
 
