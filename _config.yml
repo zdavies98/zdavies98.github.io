@@ -111,6 +111,9 @@ author:
   location         : "Tampa, FL"
   email            : "zdavies98@gmail.com"
   links:
+    - label: "Resume"
+      icon: "fab fas fa-link"
+      url: https://drive.google.com/file/d/18u6MVBa6m639E7MNT3Z6RTRqSw2rgYXJ/view?usp=drive_link
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/zdavies98
